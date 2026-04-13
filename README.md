@@ -37,9 +37,3 @@ The project followed a strict three-step workflow:
 * Analyzed the correlation between Retweets and Favorites.
 * Visualized the most popular dog stages (Puppo, Doggo, Pupper, Floof).
 * Identified the most common dog breeds based on Neural Network predictions.
-
-## 📜 Certification
-This project was completed as part of **Level 3 in the Digital Egypt Cubs Initiative (DECI)**, a 4-year technical scholarship by the Ministry of Communications and Information Technology (MCIT) in Egypt.
-
----
-*Created by [EYAD]*
